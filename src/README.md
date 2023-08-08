@@ -1,7 +1,6 @@
 == Text Segmentation == 
 Date: June 8th, 2023 
 Software: Text Segmentation, Version 1.0 
-Contact: Mivili Suganthan (613-790-9641) or email: mivili.suganthan@gmail.com 
 Author: Mivili Suganthan
 
 == Description == 
@@ -19,9 +18,9 @@ Pillow (HPND License)
 
 
 == Installation == 
-To begin installation unzip the folder and open the TEXT_UI.py file in the directory 
-that is desired. Installation requires pytesseract, python 3.11, and python pillow. 
-Further instructions on how to install these dependencies on Windows 11 can be found here:
+To begin installation open the TEXT_UI.py file in the directory that is desired. Installation 
+requires pytesseract, python 3.11, and python pillow. Further instructions on how to install 
+these dependencies on Windows 11 can be found here:
 https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:12a76aa0-6630-3e0a-aa4a-496101b87c28 
 or Installation.pdf file. 
 
@@ -34,9 +33,7 @@ can be found here: https://tesseract-ocr.github.io/tessdoc/Data-Files-in-differe
 == Credits == 
 text_recognition.py: Mivili Suganthan 
 TEXT_UI.py: Mivili Suganthan
-Work Log Sheet - Mivili Suganthan.pdf: Mivili Suganthan
 Research History_References.pdf: Mivili Suganthan
-Test History and Status.pdf: Mivili Suganthan
 Installation.pdf: Mivili Suganthan
 lang_codes.csv: Mivili Suganthan
 
